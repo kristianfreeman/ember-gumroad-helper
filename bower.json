@@ -1,13 +1,13 @@
 {
   "name": "ember-gumroad-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Kristian Freeman <kristian@kristianfreeman.com>"
   ],
   "description": "A helper for embedding Gumroad products in your Ember application",
   "main": [
-    "dist/ember-gumroad-helper.js",
-    "dist/ember-gumroad-helper.min.js"
+    "ember-gumroad-helper.js",
+    "ember-gumroad-helper.min.js"
   ],
   "keywords": [
     "ember",
