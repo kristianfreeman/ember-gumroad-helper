@@ -1,0 +1,26 @@
+{
+  "name": "ember-gumroad-helper",
+  "version": "0.0.1",
+  "authors": [
+    "Kristian Freeman <kristian@kristianfreeman.com>"
+  ],
+  "description": "A helper for embedding Gumroad products in your Ember application",
+  "main": [
+    "dist/ember-gumroad-helper.js",
+    "dist/ember-gumroad-helper.min.js"
+  ],
+  "keywords": [
+    "ember",
+    "gumroad",
+    "helper"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/imkmf/ember-gumroad-helper",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
