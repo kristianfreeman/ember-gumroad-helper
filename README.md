@@ -13,4 +13,4 @@ Add file to your Ember project manually
 
 ## Usage
 
-{{ gumroad "<your_product_id"> }}
+`{{ gumroad "<your_product_id"> }}`
